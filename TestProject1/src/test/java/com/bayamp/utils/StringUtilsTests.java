@@ -5,6 +5,4 @@ public class StringUtilsTests {
         StringBuffer buff = new StringBuffer(str);
         return buff.reverse().toString();
     }
-
-    //Harish is adding some code in StringUtils
 }
