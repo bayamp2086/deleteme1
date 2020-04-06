@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 public class ArrayUtils {
 
-    public static String sortAnArray(int[] myArray) {
+    public static void sortAnArray(int[] myArray) {
         Arrays.sort(myArray);
     }
+
 }
